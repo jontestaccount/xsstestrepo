@@ -1,4 +1,4 @@
 xsstestrepo
 ===========
 
-Test Repo 4
+Test Repo  Ċ<>\"&
